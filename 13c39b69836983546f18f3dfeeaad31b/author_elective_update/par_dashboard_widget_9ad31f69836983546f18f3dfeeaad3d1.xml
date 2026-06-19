@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">ced31f69836983546f18f3dfeeaad3cd</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"TechwithHarsha Request","sourceType":"table","tableOrViewName":"x_1999746_techwi_1_request","filterQuery":"active=true","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGc1TVRjNU1UWT0xNzAwMTQ4OTE5MDAz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"a6ukoq1r","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props>
+        <h>12</h>
+        <name/>
+        <required_translations>[{"message":"TechwithHarsha Request","comment":"","code":"PAR_DASHBOARD.ced31f69836983546f18f3dfeeaad3cd.9ad31f69836983546f18f3dfeeaad3d1"},{"message":"Open Requests","comment":"","code":"PAR_DASHBOARD.ced31f69836983546f18f3dfeeaad3cd.9ad31f69836983546f18f3dfeeaad3d1"},{"message":"No data available.","comment":"","code":"PAR_DASHBOARD.ced31f69836983546f18f3dfeeaad3cd.9ad31f69836983546f18f3dfeeaad3d1"},{"message":"There are no scores available for the selected criteria. Contact your admin for more info.","comment":"","code":"PAR_DASHBOARD.ced31f69836983546f18f3dfeeaad3cd.9ad31f69836983546f18f3dfeeaad3d1"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-18 10:02:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9ad31f69836983546f18f3dfeeaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="TechwithHarsha" source="x_1999746_techwi_1">13c39b69836983546f18f3dfeeaad31b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechwithHarsha">13c39b69836983546f18f3dfeeaad31b</sys_scope>
+        <sys_update_name>par_dashboard_widget_9ad31f69836983546f18f3dfeeaad3d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-18 10:02:56</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>0</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TechwithHarsha">13c39b69836983546f18f3dfeeaad31b</application>
+        <file_path/>
+        <instance_id>2ae5a2931b3539509377eb9b2d4bcb89</instance_id>
+        <instance_name>dev187081</instance_name>
+        <name>par_dashboard_widget_9ad31f69836983546f18f3dfeeaad3d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">ced31f69836983546f18f3dfeeaad3cd</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"TechwithHarsha Request","sourceType":"table","tableOrViewName":"x_1999746_techwi_1_request","filterQuery":"active=true","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGc1TVRjNU1UWT0xNzAwMTQ4OTE5MDAz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"a6ukoq1r","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><required_translations>[{"message":"TechwithHarsha Request","comment":"","code":"PAR_DASHBOARD.ced31f69836983546f18f3dfeeaad3cd.9ad31f69836983546f18f3dfeeaad3d1"},{"message":"Open Requests","comment":"","code":"PAR_DASHBOARD.ced31f69836983546f18f3dfeeaad3cd.9ad31f69836983546f18f3dfeeaad3d1"},{"message":"No data available.","comment":"","code":"PAR_DASHBOARD.ced31f69836983546f18f3dfeeaad3cd.9ad31f69836983546f18f3dfeeaad3d1"},{"message":"There are no scores available for the selected criteria. Contact your admin for more info.","comment":"","code":"PAR_DASHBOARD.ced31f69836983546f18f3dfeeaad3cd.9ad31f69836983546f18f3dfeeaad3d1"}]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-18 10:02:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9ad31f69836983546f18f3dfeeaad3d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="TechwithHarsha" source="x_1999746_techwi_1">13c39b69836983546f18f3dfeeaad31b</sys_package><sys_policy/><sys_scope display_value="TechwithHarsha">13c39b69836983546f18f3dfeeaad31b</sys_scope><sys_update_name>par_dashboard_widget_9ad31f69836983546f18f3dfeeaad3d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-18 10:02:56</sys_updated_on><visualization/><w>16</w><widget_props/><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-881050165</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1bc39b69836983546f18f3dfeeaad31e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-18 10:02:56</sys_created_on>
+        <sys_id>92d31f69836983546f18f3dfeeaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19eda2f0abf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-18 10:02:56</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>52d31f6972698354fe67815ba56996d5</update_guid>
+        <update_guid_history>52d31f6972698354fe67815ba56996d5:-881050165</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">cfd35f69836983546f18f3dfeeaad3b8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-18 10:02:59</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>a7132dd116ca433b92892b9285a74471</sys_id>
+        <sys_metadata>9ad31f69836983546f18f3dfeeaad3d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TechwithHarsha" source="x_1999746_techwi_1">13c39b69836983546f18f3dfeeaad31b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TechwithHarsha">13c39b69836983546f18f3dfeeaad31b</sys_scope>
+        <sys_scope_delete display_value="">13c0492dc8da4004942c8a100584df90</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_9ad31f69836983546f18f3dfeeaad3d1</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_9ad31f69836983546f18f3dfeeaad3d1">92d31f69836983546f18f3dfeeaad3d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-18 10:02:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
