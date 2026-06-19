@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="aaf3972d832983546f18f3dfeeaad377" sys_domain="global" table="x_1999746_techwi_1_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-18 10:03:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7f393a9836983546f18f3dfeeaad3f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1999746_techwi_1_request" name="x_1999746_techwi_1_request" sys_domain="global" view="Default view">aaf3972d832983546f18f3dfeeaad377</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1999746_techwi_1_request" sys_domain="global" view="Default view">f6f393a9836983546f18f3dfeeaad3de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-18 10:03:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-18 10:03:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ff3d3a9836983546f18f3dfeeaad307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1999746_techwi_1_request" name="x_1999746_techwi_1_request" sys_domain="global" view="Default view">aaf3972d832983546f18f3dfeeaad377</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1999746_techwi_1_request" sys_domain="global" view="Default view">8bf393a9836983546f18f3dfeeaad3f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-18 10:03:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1999746_techwi_1_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-18 10:03:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaf3972d832983546f18f3dfeeaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1999746_techwi_1_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TechwithHarsha" source="x_1999746_techwi_1">13c39b69836983546f18f3dfeeaad31b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TechwithHarsha">13c39b69836983546f18f3dfeeaad31b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_aaf3972d832983546f18f3dfeeaad377</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-18 10:03:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
